@@ -12,7 +12,7 @@ int main()
 		cout << "enter 2 to Withdraw			  " << endl;
 		cout << "enter 3 to Deposit               " << endl;
 		cout << "enter 4 to Interest calculation  " << endl;
-		cout << "enter 5 to Exit    test     	  " << endl;
+		cout << "enter 5 to Exit            	  " << endl;
 		int x;
 		cin >> x;
 		string user_name;
